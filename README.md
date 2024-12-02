@@ -6,6 +6,8 @@ AoC 2024
 - Compared to prompt engineering, where you create "fancy structured text" mindlessly to make the output follow a particular pattern or topic.
 - I'm not going to do any fancy structuring of my text to chatgpt. Just applying "Socratic Method In Action" with the AI.
 - My goal is not jump directly to a correct using chatGPT, but dance towards the correct answer. Is that what they called as RAG if you brute force the dance?(Ah whatever)
+- Using golang code for 2 reasons. First golang has barely changed syntax over the decade. Second golang has probably one the best backward compatibility among the popular languages.(and only like 25 keywords, i think). Given this two factors, I'm guessing chatgpt should have a better result.
+- Model used 4o
 
 # Results
 - Mad that ChatGPT can generate the code for the correct answer. I'm commiting the right answer from chatgpt for reference later. See how it goes.
