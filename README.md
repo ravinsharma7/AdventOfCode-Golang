@@ -1,7 +1,7 @@
 # AdventOfCode-Golang
 AoC 2024
 
-# Introduction "Dialog Engineering"
+# Introduction
 - The approach is as an idiot I can breakdown the concept part by part until chatgpt guides me to the correct answer.
 - Compared to prompt engineering, where you create "fancy structured text" mindlessly to make the output follow a particular pattern or topic.
 - I'm not going to do any fancy structuring of my text to chatgpt. Just applying "Socratic Method In Action" with the AI.
@@ -24,5 +24,8 @@ AoC 2024
 - Part 2 First try: Correct  
   - Direct Paste of Question+Input. No additional text. But in the same chat window.
 
-### Day 3 
-- TBD  
+### Day 2
+- Part 1 First try: Correct  
+  - Direct Paste of Question+Input. No additional text. But in the same chat window.
+- Part 2 First try: Correct  
+  - Direct Paste of Question+Input. No additional text. But in the same chat window.
