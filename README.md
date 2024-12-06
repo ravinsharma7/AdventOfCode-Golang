@@ -43,9 +43,9 @@ AoC 2024
   - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
 
 ### Day 6
-- Part 1 First try: Wrong. Correct third try:
-  - I think it got confused the delimiter I was using to seperate the question and input, it generated a code that ran infinitely long(I suppose).
-  - It forget about go code and generated python. Added "Generate go code" at the end. Delimeter using the new delimeter.
+- Part 1 First try Wrong. Correct third try:
+  - I think it got confused that the delimiter I was using was part of the question and input somehow, it generated a code that ran infinitely long(I suppose).
+  - It forgot about go code and generated python. Added "Generate go code" at the end. Delimeter using the new delimeter.
     ```
     INPUT:
     
@@ -57,6 +57,6 @@ AoC 2024
   - Same chat window
 window.
 - Part 2 First try: Wrong. Correct second try:
-  - I think the ..., and # messed with the delimited and it got confused somehow. So I need to be aware of stop words and overload puntuations symbols.
+  - I think the `...`, and `#` messed with the delimiter and it got confused somehow. So I need to be aware of stop words and overloaded puntuations symbols as delimiter and input.
   - I had to reformat the question to get it right.
   - Same chat window
