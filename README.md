@@ -46,6 +46,14 @@ AoC 2024
 - Part 1 First try: Wrong. Correct third try:
   - I think it got confused the delimiter I was using to seperate the question and input, it generated a code that ran infinitely long(I suppose).
   - It forget about go code and generated python. Added "Generate go code" at the end. Delimeter using the new delimeter.
+    ```
+    INPUT:
+    
+    #...#...
+      
+    ME:
+    Generate go code
+    ```
   - Same chat window
 window.
 - Part 2 First try: Wrong. Correct second try:
