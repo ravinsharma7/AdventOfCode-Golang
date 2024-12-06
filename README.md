@@ -16,28 +16,28 @@ AoC 2024
 - Part 1 First try: Correct
   - Direct Paste of Question+Input. No additional text aside appending "Generate go code" 
 - Part 2 First try: Correct  
-  - Direct Paste of Question+Input. No additional text. But in the same chat window.
+  - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
 
 ### Day 2
 - Part 1 First try: Correct  
   - Direct Paste of Question+Input. No additional text. But in the same chat window.
 - Part 2 First try: Correct  
-  - Direct Paste of Question+Input. No additional text. But in the same chat window.
+  - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
 
 ### Day 3
 - Part 1 First try: Correct  
   - Direct Paste of Question+Input. No additional text. But in the same chat window.
 - Part 2 First try: Correct  
-  - Direct Paste of Question+Input. No additional text. But in the same chat window.
+  - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
 
 ### Day 4
 - Part 1 First try: Correct  
   - Direct Paste of Question+Input. No additional text. But in the same chat window.
 - Part 2 First try: Correct  
-  - Direct Paste of Question+Input. No additional text. But in the same chat window.
+  - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
 
 ### Day 5
 - Part 1 First try: Correct  
   - Direct Paste of Question+Input. I had to split the rules and updates inputs by myself since the resulting code assumed it wasy already split. It starting to lose context from Day 1, no additional text aside appending "Generate go code". But in the same chat window.
 - Part 2 First try: Correct  
-  - Direct Paste of Question+Input. No additional text. But in the same chat window.
+  - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
