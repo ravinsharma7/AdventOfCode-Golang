@@ -41,3 +41,14 @@ AoC 2024
   - Direct Paste of Question+Input. I had to split the rules and updates inputs by myself since the resulting code assumed it wasy already split. It starting to lose context from Day 1, no additional text aside appending "Generate go code". But in the same chat window.
 - Part 2 First try: Correct  
   - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
+
+### Day 6
+- Part 1 First try: Wrong. Correct third try:
+  - I think it got confused the delimiter I was using to seperate the question and input, it generated a code that ran infinitely long(I suppose).
+  - It forget about go code and generated python. Added "Generate go code" at the end. Delimeter using the new delimeter.
+  - Same chat window
+window.
+- Part 2 First try: Wrong. Correct second try:
+  - I think the ..., and # messed with the delimited and it got confused somehow. So I need to be aware of stop words and overload puntuations symbols.
+  - I had to reformat the question to get it right.
+  - Same chat window
