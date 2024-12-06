@@ -1,5 +1,5 @@
 # AdventOfCode-Golang
-AoC 2024
+AoC 2024 : https://adventofcode.com/2024
 
 # Introduction
 - The approach is as an idiot I can breakdown the concept part by part until chatgpt guides me to the correct answer.
