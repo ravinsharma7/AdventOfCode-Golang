@@ -18,3 +18,16 @@
 - Cycle Detection: Identify if the guard repeats a previously visited state (position + direction) to terminate early in cyclic cases.  
 - Concurrency: Parallelize the visited grid updates if the input grid is large.  
 
+
+# PART 2 OPTIMIZED 1
+
+To optimize the obstruction simulation further, we can focus on these aspects:
+
+- Minimize State Representation Overhead:
+  - Use a compact representation for the guard's state (position + direction) to reduce memory usage and lookup times.
+- Avoid Unnecessary Simulations:
+  - Pre-filter potential obstruction positions to exclude those where the guard's path is unlikely to change significantly.
+- Optimize Obstruction Checks:
+  - Simulate the patrol once and store the reachable positions. Only test obstructions at reachable positions for efficiency.
+- Parallel Processing:
+  - Split the grid into chunks and evaluate obstruction positions in parallel.
