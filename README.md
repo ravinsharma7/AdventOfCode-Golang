@@ -7,7 +7,7 @@ AoC 2024 : https://adventofcode.com/2024
 - I'm not going to do any fancy structuring of my text to chatgpt. Just applying "Socratic Method In Action" with the AI.
 - My goal is not jump directly to a correct using chatGPT, but dance towards the correct answer. Is that what they called as RAG if you brute force the dance?(Ah whatever)
 - Using golang code for 2 reasons. First golang has barely changed syntax over the decade. Second golang has probably one the best backward compatibility among the popular languages.(and only like 25 keywords, i think). Given this two factors, I'm guessing chatgpt should have a better result.
-- Model used 4o
+- Model used 4o or o1
 
 # Results
 - Mad that ChatGPT can generate the code for the correct answer. I'm commiting the right answer from chatgpt for reference later. See how it goes.
@@ -60,3 +60,18 @@ window.
   - I think the `...`, and `#` messed with the delimiter and it got confused somehow. So I need to be aware of stop words and overloaded puntuations symbols as delimiter and input.
   - I had to reformat the question to get it right.
   - Same chat window
+
+### Day 7
+- Part 1 First try: Correct  
+  - Direct Paste of Question+Input. Added text "Generate go code". But in the same chat window.
+- Part 2 First try: Correct  
+  - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
+
+## Day 8
+- Part 1 first try: Correct(o1) / Wrong(4o)
+  - I reformat the question because the delimiter might clash.
+  - 4o gets the code wrong. Tried like 3-4 times.
+  - o1 got it right the first time.
+- Part 2 first try: Correct(o1)
+  - Only tried with o1. 4o didnt bother
+  - Got right the first time.
