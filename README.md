@@ -68,7 +68,7 @@ window.
 - Part 2 First try: Correct  
   - Direct Paste of Question without the same Input. No additional text. But in the same chat window.
 
-## Day 8
+### Day 8
 - Part 1 first try: Correct(o1) / Wrong(4o)
   - I reformat the question because the delimiter might clash.
   - 4o gets the code wrong. Tried like 3-4 times.
