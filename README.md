@@ -71,7 +71,7 @@ window.
 - Part 1 first try: Correct(o1) / Wrong(4o)
   - I reformat the question because the delimiter might clash.
   - 4o gets the code wrong. Tried like 3-4 times.
-  - o1 got it right the first time.
+  - o1 got it right the first time. Kinda, it generated code with unused variable in it, this trigger compiler error, so I had to manually change into _
 - Part 2 first try: Correct(o1)
   - Only tried with o1. 4o didnt bother
-  - Got right the first time.
+  - Got right the first time. Kinda, it generated code with unused variable in it, this trigger compiler error, so I had to manually change into _
