@@ -76,3 +76,20 @@ window.
 - Part 2 first try: Correct(o1)
   - Only tried with o1. 4o didnt bother
   - Got right the first time. Kinda, it generated code with unused variable in it, this trigger compiler error, so I had to manually change into _
+ 
+### Day 9
+- Part 1 first try: Correct(o1)
+  - Only tried with o1. 4o didnt bother
+  - I reformat the question because the delimiter might clash.
+  - o1 got it right the first time. 
+- Part 2 first try: Correct(o1)
+  - Only tried with o1. 4o didnt bother
+  - Got right the first time.
+
+### Day 10
+- Part 1 first try: Correct(o1)
+  - Only tried with o1-mini. 
+  - I reformat the question because the delimiter might clash.
+- Part 2 first try: Correct(o1)
+  - Only tried with o1-mini.
+  - Got right the first time.
